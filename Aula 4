@@ -6,47 +6,22 @@ TypeScript é uma linguagem que se baseia em JavaScript, mas adiciona tipagem es
 
 Diferenças e Estilo de Código:
 Python:
-
 Sintaxe: Simples e legível, com indentação obrigatória para definir blocos de código.
 Tipagem: Dinâmica (não é necessário declarar o tipo das variáveis).
-Estilo de Código:
-python
-Copiar código
-# Define uma variável
-mensagem = "Bom dia, hoje eu gostaria de dizer o quanto o Gustavo é lindo, no caso eu s2"
 
-# Imprime a mensagem
-print(mensagem)
 Java:
-
 Sintaxe: Mais detalhada e verbosa, requer declaração explícita de tipos.
 Tipagem: Estática (tipos devem ser declarados).
-Estilo de Código:
-java
-Copiar código
-// Define a classe
-public class Mensagem {
-    public static void main(String[] args) {
-        // Define uma variável
-        String mensagem = "Bom dia, hoje eu gostaria de dizer o quanto o Gustavo é lindo, no caso eu s2";
-        
-        // Imprime a mensagem
-        System.out.println(mensagem);
-    }
-}
+
 TypeScript:
 
 Sintaxe: Semelhante ao JavaScript, mas com suporte para tipagem estática e interfaces.
 Tipagem: Estática opcional (você pode declarar tipos para variáveis e funções).
-Estilo de Código:
-typescript
-Copiar código
-// Define uma variável com tipo explícito
-let mensagem: string = "Bom dia, hoje eu gostaria de dizer o quanto o Gustavo é lindo, no caso eu s2";
 
-// Imprime a mensagem
-console.log(mensagem);
 Resumo:
 Python e TypeScript são mais flexíveis na tipagem. Python é dinâmico e interpretado, enquanto TypeScript é estático (opcional) e precisa ser compilado para JavaScript.
 Java é compilada e tem tipagem estática obrigatória, o que pode ajudar a identificar erros antes da execução.
 Python é ideal para tarefas rápidas e protótipos, Java é excelente para aplicações grandes e robustas, e TypeScript combina a flexibilidade do JavaScript com benefícios adicionais de tipagem estática para projetos mais complexos.
+
+
+
