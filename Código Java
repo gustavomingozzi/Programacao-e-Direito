@@ -1,8 +1,0 @@
-// Nome do arquivo: GustavoLindo.java
-
-public class GustavoLindo {
-    public static void main(String[] args) {
-        // Imprime a mensagem no console
-        System.out.println("Gustavo é lindo");
-    }
-}
