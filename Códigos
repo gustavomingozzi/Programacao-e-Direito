@@ -1,0 +1,21 @@
+Phyton:
+# Nome do arquivo: saudacao.py
+
+# Imprime a mensagem no console
+print("eu sBom dia, hoje eu gostaria de dizer o quanto o Gustavo é lindo, no caso 2")
+
+Java:
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Bom dia, hoje eu gostaria de dizer o quanto o Gustavo é lindo, no caso eu s2");
+    }
+}
+
+TypeScript:
+const message:string = "Bom dia, hoje eu gostaria de dizer o quanto o Gustavo é lindo, no caso eu s2";
+console.log(message);
