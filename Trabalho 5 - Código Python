@@ -73,3 +73,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+Comprovante de execução:
+https://github.com/gustavomingozzi/Programacao-e-Direito/blob/main/Comprovante.PNG
